@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V6EeskQjTxI=",
+  "success": true,
+  "projectFilePath": "/home/iris/Documents/Programing/AD5-N3L-8T1/Minimal_API/Minimal_API.csproj",
+  "expectedPackageFiles": [
+    "/home/iris/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.16/microsoft.netcore.app.host.linux-x64.8.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
