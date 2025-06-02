@@ -1,0 +1,55 @@
+# .NET build folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# ASP.NET temporary files
+*.vspscc
+*.vssscc
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Build results
+*.dll
+*.exe
+*.app
+*.log
+
+# Publish output
+publish/
+*.db
+
+# DotCover
+*.dotCover
+
+# Test results
+TestResults/
+*.trx
+
+# Local database files
+*.mdf
+*.ldf
+
+# Others
+*.cache
+*.pdb
+
+# Secrets
+secrets.json
+appsettings.Development.json
+appsettings.Local.json
